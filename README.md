@@ -62,12 +62,12 @@ TensorFlow / Keras
 Google Colab
 
 📁 Estrutura do Projeto
-├── notebook.ipynb         
+├── notebook.ipynb       
 ├── README.md              
 ├── images/                 
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   └── precision_recall.png
+│   ├── matriz_confusao.png
+│   ├── curvas_ROC_e_Recall.png
+
 
 Resultados:
 Os experimentos demonstraram que todas as arquiteturas apresentaram elevado desempenho na classificação dos tumores. O modelo intermediário (MLP_B) obteve o melhor equilíbrio entre capacidade de generalização e custo computacional, alcançando valores elevados de Acurácia, Recall e AUC-ROC, mostrando o potencial das Redes Neurais como ferramenta de apoio ao diagnóstico médico.
